@@ -1,0 +1,235 @@
+/* PAGE 1 */		
+
+		/* COVER */
+				h1{
+					font-family: Antro Vectra;
+					font-size : 100px;
+					font-weight: 1000; 
+					color: black;
+					padding-top: 200px; 
+					text-shadow: 1px 1px 3px black;
+				}
+
+				#wrapper {
+					background-image: url("../image2.jpg");
+					background-size: cover; 
+					height: 600px; 
+					padding-top: 50px; 
+					padding-bottom: 150px; 
+					padding-right: 150px; 
+					padding-left: 150px; 
+					text-align: center;
+					margin-top: -20px; 
+					}
+
+				#PDF {
+					 background-color: #1C2833; 
+					 font-family: Avenir Next Condensed; 
+					 font-size: 25px; 
+					 color: #D6EAF8;
+
+				}
+
+
+		/* TEXTE accueil */
+				h3 {
+					font-family: Antro Vectra; 
+					font-size: 100px; 
+					color: #283747; 
+					text-align: center;
+
+				}
+
+
+				#script3 {
+					text-align: center; 
+					font-family: Avenir Next Condensed; 
+					color: #8B8583 ;
+					font-size: 20px; 
+
+				}
+
+				#script2 {
+					text-align: center; 
+					font-family: Avenir Next Condensed; 
+					color: #8B8583 ;
+					font-size: 20px; 
+				}
+
+				#script1 {
+					text-align: center; 
+					font-family: Avenir Next Condensed; 
+					color: #8B8583 ;
+					font-size: 20px; 
+				}
+
+				#competences {
+					text-align: center; 
+					font-family: Avenir Next Condensed; 
+					color: #8B8583 ;#8B8583
+					font-size: 20px; 
+				}
+
+				#all {
+					background-color: #FDEDEC;
+				}
+
+
+
+				
+
+		/* FOOTER */
+				#footer {
+						background-color: #1C2833; 
+
+				}
+
+				h5 {
+					font-family: marchand de venise; 
+					font-size: 60px; 
+					color: #E5E8E8;
+
+				}
+
+				h4 {
+					font-family: Avenir Next Condensed; 
+					font-size: 15px; 
+					color: #E5E8E8;
+				}
+
+				h6 {
+					font-family: Avenir Next Condensed; 
+					font-size: 15px; 
+					color: #FDEDEC;
+				}
+
+
+
+
+/* PAGE NEOMA */
+
+		/* COVER */
+				#wrapperneoma {
+					background-image: url("../fondneoma.jpg");
+					background-size: cover; 
+					height: 600px; 
+					padding-top: 50px; 
+					padding-bottom: 150px; 
+					padding-right: 150px; 
+					padding-left: 150px; 
+					text-align: center;
+					margin-top: -20px; 
+					}
+
+				h2 {
+					color: black; 
+					font-family: Avenir Next; 
+					font-size: 50px; 
+					font-weight: 100; 
+
+				}
+
+				#allneoma {
+					background-color: #3A2E40
+
+
+				}
+
+				#ecole2 {
+					font-family: marchand de venise; 
+					color: #F2F3F4; 
+					font-size: 90px; 
+					text-align: center;
+				}
+
+				#ecole {
+					font-family: Avenir Next; 
+					color: #F2F3F4;
+					text-align: justify; 
+					font-size: 20px; 
+
+				}
+
+				#cursus {
+					font-family: Avenir Next; 
+					color: #F2F3F4;
+					text-align: justify; 
+					font-size: 20px; 
+
+				}
+
+/* PAGE PREPA */
+
+		/* COVER */
+				#wrapperprépa {
+					background-image: url("../imageprépa.jpg");
+					background-size: cover; 
+					height: 600px; 
+					padding-top: -50px; 
+					padding-bottom: 170px; 
+					padding-right: 150px; 
+					padding-left: 150px; 
+					text-align: center;
+					margin-top: -50px; 
+					}
+
+
+
+				#allprépa {
+					background-color: #899A8A;
+
+				}
+
+				#texteprépa {
+					font-family: Antro Vectra;
+					font-size : 80px;
+					font-weight: 1000; 
+					color: #537454;
+					padding-top: 200px; 
+					text-shadow: 0.5px 0.5px 1px white;
+				}
+
+				#soustitreprépa {
+					color: #537454; 
+					font-family: Avenir Next; 
+					font-size: 50px; 
+					font-weight: 100; 
+					text-shadow: 0px 0px 1px white;
+
+				}
+
+				#prépa2 {
+					font-family: marchand de venise; 
+					color: #D9E0D9; 
+					font-size: 90px; 
+					text-align: center;
+				}
+
+				#prépa1 {
+					font-family: Avenir Next; 
+					color: #D9E0D9;
+					text-align: justify; 
+					font-size: 20px; 
+
+				}
+
+				#lycée
+				 {
+					font-family: Avenir Next; 
+					color: #D9E0D9;
+					text-align: justify; 
+					font-size: 20px; 
+
+				}
+
+				#concours
+				{
+					font-family: Avenir Next; 
+					color: #D9E0D9;
+					text-align: justify; 
+					font-size: 20px; 
+
+				}
+
+
+
